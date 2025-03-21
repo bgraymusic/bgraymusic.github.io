@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Song Ideas"
+    url: /song-ideas/
+  - title: "The Official Pie of π Day"
+    url: /pi-day-recipe/
