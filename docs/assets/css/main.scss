@@ -3,23 +3,14 @@
 
 @charset "utf-8";
 
-$max-width: 100%;
-
-$small: 600px;
-$medium: 768px;
-$large: 1024px;
-$x-large: 1280px;
-
-$code-background-color: var(--black-075); // GS: Stack Overflow colors
-
-/* ============ OVERRIDE SASS (*.scss file) VARIABLES BY PLACING THEM ABOVE ===================== */
+/* ======== OVERRIDE SASS VARIABLES IN _sass/minimal-mistakes/skins/_bgnr.scss ======== */
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 /* ============ OVERRIDE CSS STYLES BY PLACING THEM BELOW ======================================= */
 
-/* FONT SIZES */
+/* ******** FONT STUFF ******** */
 
 html {
   font-size: 14px;
@@ -31,11 +22,7 @@ html {
 
 $small-font: 0.9em;
 
-.author__bio p {
-    font-size: $small-font;
-}
-
-.page__content dd {
+.author__bio p, .page__content dd {
     font-size: $small-font;
 }
 
@@ -46,7 +33,7 @@ blockquote {
   font-style: normal;
 }
 
-/* ----- CODE ----------------------------------------------------------------------------------- */
+/* ******** CODE STUFF ******** */
 
 /*
 In "_base.scss", the CSS formatting for the `code` class is applied to `td > code`, which means it
@@ -61,44 +48,36 @@ code {
   background: $code-background-color;
 }
 
-/* ----- IMAGES & CONTAINERS -------------------------------------------------------------------- */
+/* ******** IMAGES & CONTAINERS ******** */
 
 /* align left WITH word wrap to the right of the element */
 .alignLeftWrap {
 //   display: inline-block;
   float: left;
-  margin-left: 0px;
-  /* provide a gap between the element and the text to its right */
-  margin-right: 15px;
+  margin-left: 0px; margin-right: 15px;
 }
 
 /* align right WITH word wrap to the left of the element */
 .alignRightWrap {
-//   display: inline-block;
   float: right;
-  /* provide a gap between the element and the text to its left */
   margin-left: 15px; margin-right: 0px;
 }
 
 /* align left withOUT word wrap--the element goes on its own line */
 .alignLeftNoWrap {
-  display: block;
-  float: none;
+  display: block; float: none;
   margin-left: 0px; margin-right: auto;
 }
 
 /* align center withOUT word wrap--the element goes on its own line */
 .alignCenterNoWrap {
-  display: block;
-  float: none;
-  /* Set both the left and right margins to `auto` to cause the img/element to be centered. */
+  display: block; float: none;
   margin-left: auto; margin-right: auto;
 }
 
 /* align right withOUT word wrap--the element goes on its own line */
 .alignRightNoWrap {
-  display: block;
-  float: none;
+  display: block; float: none;
   margin-left: auto; margin-right: 0px;
 }
 
@@ -107,16 +86,15 @@ Therefore, this element will begin on a new line, even if it would otherwise try
 around the above element instead. */
 .noWrapAroundAbove { clear: both; }
 
-/* COLORS */
-
-$lt-background: #f0f8ff;
-
-.layout--single { background-color: $lt-background; }
-.layout--home { background-color: $lt-background; }
-.greedy-nav { background-color: $lt-background; }
-
-/* SPACING */
+/* ******** SPACING ******** */
 
 .page__content img {
     margin: 0.25em 0.1em;
 }
+
+.masthead__inner-wrap {
+    padding: 0.5em 1em;
+}
+
+.page__footer { margin-top: 2em; }
+.page__footer footer { margin-top: 0; padding: 0.75em 1em; }
