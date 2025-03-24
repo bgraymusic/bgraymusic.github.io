@@ -1,9 +1,9 @@
 ---
-title:  "Follow the bouncing ball"
+title:  Follow the bouncing ball
+tagline: A new feature… lyrics that change color as the song plays
 permalink: /2015-01-26-follow-the-bouncing-ball/
 date:   2015-01-26 18:59:00 -0500
 categories: software
-img_path: /assets/posts/2015-01-26-follow-the-bouncing-ball/img
 ---
 
 Or more like “follow the slightly lighter blue words”. I’m playing around with making my lyrics follow along with the song as it plays. At first I thought it would just be a cool novelty, but now the most useful part to me is the ability to scrub through the song with the slider and find the part I want to play. Now you don’t have to guess that the second verse is at about 1:30, you can instead visually drag over until the words reach the end of the first chorus and hit “play”. Check them out:

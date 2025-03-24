@@ -1,9 +1,9 @@
 ---
-title:  "Yeah, I'm thinking I'm back"
+title:  Yeah, I'm thinking I'm back
+tagline: Rambling thoughts about getting back into songwriting and helping out a friend
 permalink: /2017-02-02-yeah-im-thinking-im-back/
-date:   2015-02-02 17:08:00 -0500
+date:   2017-02-02 17:08:00 -0500
 categories: songwriting
-img_path: /assets/posts/2017-02-02-yeah-im-thinking-im-back/img
 ---
 
 Lately my songwriting activity has been like that picture of Keanu sitting on the park bench. Now I’ve written a new song, and it’s more like that kitten in the Key and Peele movie. Or something like that; the point is I’m putting slightly more effort into songwriting than I am into thinking up similes.
