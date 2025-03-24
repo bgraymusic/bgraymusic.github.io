@@ -13,7 +13,16 @@ if (window.parent) {
         songtab = parseInt(params.get("songtab"));
         songtab = isNaN(songtab) ? 0 : songtab;
         blog = params.get("blog");
-        window.parent.navigate(toptab, song, songtab, blog);
+        link.href =
+          "javascript:window.parent.navigate(" +
+          toptab +
+          ', "' +
+          song +
+          '", ' +
+          songtab +
+          ', "' +
+          blog +
+          '")';
       }
     });
   });
