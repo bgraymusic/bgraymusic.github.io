@@ -40,7 +40,7 @@ author:
     engineering software in a professional environment, and luxuriate in
     taking 6 months to get one component just right. Write and rewrite one
     song until I can listen to it without hating myself. And document all my
-    efforts for the unlucky who happen by.
+    efforts for the intrepid who happen by.
   location: Philadelphia, PA
   email: bgraymusic@gmail.com
   links:
@@ -92,7 +92,7 @@ minimal_mistakes_skin: bgnr
 pagination:
   enabled: true
   collection: "posts"
-  per_page: 5
+  per_page: 10
   permalink: "/page/:num/"
   title: ":title - page :num"
   limit: 0
