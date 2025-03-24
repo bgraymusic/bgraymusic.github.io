@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
       !whitelistedDomains.some((domain) => linkHostname.includes(domain))
     ) {
       link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noopener noreferrer");
+      link.setAttribute("rel", "noopener noreferrer nofollow");
     }
   });
 });
