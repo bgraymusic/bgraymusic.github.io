@@ -44,9 +44,14 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        with:
+          base_url: https://blog.briangraymusic.com
+          base_path: /blog
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build -s docs --baseurl "{{ steps.pages.outputs.base_url }}"
+        run: |-
+          cd docs
+          bundle exec jekyll build --baseurl "{{ steps.pages.outputs.base_url }}"
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
