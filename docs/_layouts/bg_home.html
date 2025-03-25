@@ -4,4 +4,9 @@ layout: home
 
 {{ content }}
 
+<!-- This empty div gets rid of an error where core code selects all
+'.page__content' elements and turns their headers into links. But if there
+are no such elements, it leads to a null dereference. -->
+<div class="page__content"></div>
+
 <script src="{{ '/assets/js/links_in_new_tab.js' | relative_url }}"></script>
