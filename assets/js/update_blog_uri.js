@@ -1,6 +1,3 @@
 function update_blog_uri(blogUri) {
-	if (window.parent) {
-		console.log('Posting blogUri: ' + blogUri);
-		window.parent.postMessage({ message: 'updateBlogUri', blogUri: blogUri }, '*');
-	}
+	if (window.parent) window.parent.postMessage({ message: 'updateBlogUri', blogUri: blogUri }, '*');
 }
