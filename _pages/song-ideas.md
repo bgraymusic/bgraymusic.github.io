@@ -58,7 +58,7 @@ Donglerama
 “Perfect Match”
 : We’re perfect for each other because we hate all the same things & people.
 
-“Popular Table”
+✅ “Popular Table”
 : “I’m sitting at the popular table today”, used both in future and present tense as the song progresses. Starts hopeful and excited, remains upbeat while revealing that the plan does not really work. I’m oblivious though, and when I’m the only one at the table, I conclude that I am now the only popular person at school/work.
 
 "Postcard from Paradise"
