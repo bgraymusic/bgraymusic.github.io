@@ -88,6 +88,11 @@ around the above element instead. */
 
 /* ******** SPACING ******** */
 
+.greedy-nav a.site-title {
+    margin-left: 1rem;
+    font-size: x-large;
+}
+
 .page__content img {
     margin: 1em 0.85em;
 }
