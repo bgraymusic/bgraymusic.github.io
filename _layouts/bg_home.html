@@ -10,3 +10,7 @@ are no such elements, it leads to a null dereference. -->
 <div class="page__content"></div>
 
 <script src="{{ '/assets/js/links_in_new_tab.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/update_blog_uri.js' | relative_url }}"></script>
+<script>
+    update_blog_uri("{{ page.permalink }}");
+</script>

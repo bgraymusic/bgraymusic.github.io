@@ -10,3 +10,7 @@ layout: single
 <script>
     prefix_image_paths("posts", "{{ page.permalink }}", ".page__content");
 </script>
+<script src="{{ '/assets/js/update_blog_uri.js' | relative_url }}"></script>
+<script>
+    update_blog_uri("{{ page.permalink }}");
+</script>

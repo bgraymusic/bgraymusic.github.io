@@ -18,6 +18,6 @@ This time around the challenge was pretty narrow thematically but left the entir
 
 I didn’t actually go all in on the personal connection, writing in the form of an election victor giving an acceptance speech. Still, my “2nd person” morphed from the crowd (less intimate) to “especially” a specific person. So somewhere in between I guess. In the process, the narrator betrays more about himself than would have been appropriate during his campaign, and reveals he’s caught up in anxiety from… I’m going to say adolescence? Maybe he was bullied and now means to abuse his power to get back at people? He’s definitely making up for something, but the listener can feel free to fill in the blanks.
 
-[Abernathy Fitzgerald](https://briangraymusic.com?toptab=1&song=abernathyfitzgerald)
+[Abernathy Fitzgerald](https://briangraymusic.com?toptab=music&song=abernathyfitzgerald)
 
 This song is tagged NSFW, so if you have applied the “Safe for Work” badge, you’ll have to decide whether or not you agree never to hold anything you hear against me. I’ve consulted with my cat, and she agrees this is a legally binding dialog box.

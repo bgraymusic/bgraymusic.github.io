@@ -1,29 +1,19 @@
 if (window.parent) {
-  document.addEventListener("DOMContentLoaded", () => {
-    const links = document.querySelectorAll("a");
-    const internalDomain = "briangraymusic.com";
+	document.addEventListener('DOMContentLoaded', () => {
+		const links = document.querySelectorAll('a');
+		const internalDomain = 'briangraymusic.com';
 
-    links.forEach((link) => {
-      const url = new URL(link.href);
-      if (url.hostname == internalDomain) {
-        const params = url.searchParams;
-        toptab = parseInt(params.get("toptab"));
-        toptab = isNaN(toptab) ? 0 : toptab;
-        song = params.get("song");
-        songtab = parseInt(params.get("songtab"));
-        songtab = isNaN(songtab) ? 0 : songtab;
-        blog = params.get("blog");
-        link.href =
-          "javascript:window.parent.navigate(" +
-          toptab +
-          ', "' +
-          song +
-          '", ' +
-          songtab +
-          ', "' +
-          blog +
-          '")';
-      }
-    });
-  });
+		links.forEach((link) => {
+			const url = new URL(link.href);
+			if (url.hostname == internalDomain) {
+				let params = {
+					topTab: url.searchParams.get('toptab'),
+					song: url.searchParams.get('song') || '',
+					songTab: url.searchParams.get('songtab') || '',
+				};
+				link.href =
+					'javascript:window.parent.postMessage({ message: "navigate", params: ' + JSON.stringify(params) + '}, "*")';
+			}
+		});
+	});
 }
