@@ -31,6 +31,7 @@ repository: bgraymusic/bgraymusic.github.io
 
 #######################################
 # PERSONAL INFO
+
 author:
   name: Brian Gray
   avatar: assets/img/bg_avatar_face.jpg
@@ -60,6 +61,7 @@ author:
 
 #######################################
 # CONTACT INFO
+
 email: bgraymusic@gmail.com
 github:
   username: bgraymusic
@@ -115,6 +117,17 @@ plugins:
   - jekyll-sitemap
 
 #######################################
+# COMMENTS
+
+# Config explanations at https://utteranc.es/
+comments:
+  provider               : "utterances"
+  utterances:
+    theme                : "preferred-color-scheme"
+    issue_term           : "pathname"
+    label                : "blog_comments"
+
+#######################################
 # INCLUDES / EXCLUDES
 
 include:
@@ -146,6 +159,7 @@ defaults:
         overlay_image: /assets/img/presidential_suite_guitar.jpg
       author_profile: true
       share: true
+      comments: true
 
   # _posts
   - scope:
@@ -159,6 +173,9 @@ defaults:
       author_profile: true
       read_time: true
       share: true
+      comments: true
+      related: true
+      show_date: true
 
 #######################################
 # SITE FOOTER
