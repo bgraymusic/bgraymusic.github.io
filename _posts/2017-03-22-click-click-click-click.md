@@ -32,7 +32,7 @@ timing = [11.96, 12.12, 12.32];
 
 What this allows is the creation of a new piece of software that I wrote and is available in my GitHub repo, which I call “Nerd Rock Karaoke Generator” (in the nrk directory). I do still have to go in manually and paste those ‘\u200C’ characters in front of each syllable, but when it comes to the timing, I can use this tool:
 
-<p align="center"><img src="nrkg.png" width=480 /></p>
+<p align="center"><img path="nrkg.png" width=480 /></p>
 
 There are not yet very many advanced features, like being able to pause, scrub back, and overwrite sections you feel you got wrong. Nor does it load up the lyrics and show you visually what’s going to happen. All it does is load a song, allow you to record or not record button/key up events and if so how long a gap before the next button/key down is required to record the up. I only mark releases for slow songs, like “St. Agnes” where it’s nice to see the syllable go dark before the next one starts (and remember to put an extra unprintable char after the word if you’re doing this). You play the song, click “Mark Syllable” or hit a key for each syllable, then when it’s done hit “Copy”, and the JavaScript array of timings to the nearest hundredth of a second gets placed in your copy buffer for pasting into the track-info.js file where I keep these.
 

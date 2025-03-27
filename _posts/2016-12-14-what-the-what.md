@@ -29,7 +29,7 @@ At that point Zoe and I will be able to move in and start using the room to reco
 
 Oh yeah, you may not know what it’s going to look like! Here’s the high-level floorplan with the rest of my basement for context:
 
-<p align="center"><img src="studio_floorplan.png" width="480" /></p>
+<p align="center"><img path="studio_floorplan.png" width="480" /></p>
 
 For finer resolution on the progress details, check out the [Trello Board](http://briangraymusic.com/?toptab=3) on my website.
 

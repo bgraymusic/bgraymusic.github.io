@@ -10,7 +10,7 @@ What a weekish!
 
 I just spent the last 8 days on the fabulous [JoCo Cruise Crazy 5](https://jococruisecrazy.com/). Wow. A whirlwind of music, gaming, comedy, writing, and all things nerdy. Turns out I **can** talk to people on occasion, given the right environment. And the environment was awesome. Bow to stern geeks to meet in all their manifestations, shows, Q&A sessions, seminars, and of course, all we could eat. In addition, there were lots of opportunities to bust out many of the songs I've been learning how to play on the guitar over the past year.
 
-<img src="bg_guitar_sitting.jpg" align="right" width="240px"/>
+<img path="bg_guitar_sitting.jpg" align="right" width="240px"/>
 There were times I had to ask myself, "What are you doing on a cruise ship, singing songs, with a guitar?" Then I remembered that they wouldn't allow me to carry on my piano. Ba-dum-tsh. Speaking of carry-ons, they wouldn't allow that with the guitar either (though somehow [Jim Boggia](http://jimboggia.com/) pulled it off), but they were nice enough to allow me to gate check it with a blue tag that means "hand carry". End result: not a broken guitar. On the way back they even hand carried it back up to the ramp, though on the way there it went to baggage claim in the "odd size" section.
 <br clear="right" />
 
@@ -20,7 +20,7 @@ Then a few days during which we did all manner of cruise things, among these hor
 
 Closing the concert with "Walk", backed by my extra special guest star Zoe Gray on harmony. I can only hope we made some small difference in the fight for undead rights.
 
-<img src="bg_with_zoe.jpg" align="left" width="240px" />
+<img path="bg_with_zoe.jpg" align="left" width="240px" />
 And then comes the ground rush. Zoe and I participated in a BYOMusic event at the presidential suite, where I tried my hands at "OtisBurg" and "Just a Dream". Not sure I really thought through what these two songs would do to my wrists. The former I play to loosen up, as it keeps switching grips constantly, and the latter is bar chords all the way down (could be played open through the first couple choruses, but then modulates up a half step, so in the interest of keeping a consistent tone I just bar the whole song). By next year I expect this stuff will all be easy, considering how much better I've gotten since last year.
 <br clear="left" />
 
@@ -31,5 +31,5 @@ A short night's sleep got me up early on Saturday morning to warm up for my solo
 I'll leave you with a picture of the set list. I had time available near the end, so I included the conditional song "Just You and Me", for which I altered the lyrics to make people feel as bad as possible for being on a cruise while the world sucks:
 
 <p align="center">
-    <img src="set_list.jpg" width="480px" />
+    <img path="set_list.jpg" width="480px" />
 </p>

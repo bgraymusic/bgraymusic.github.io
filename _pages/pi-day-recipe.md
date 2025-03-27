@@ -95,13 +95,13 @@ A lot of baking requires precision, as differentiated against normal cooking whe
 4. Let them drain for an hour and a half.
 
 <p align="center">
-    <img src="coring_apples.jpg" width=160px
+    <img path="coring_apples.jpg" width=160px
         alt="Coring an apple with a melon baller" />
-    <img src="peeling_apples.jpg" width=160px
+    <img path="peeling_apples.jpg" width=160px
         alt="Peeling an apple slice with a knife" />
-    <img src="slicing_apples.jpg" width=160px
+    <img path="slicing_apples.jpg" width=160px
         alt="Slicing four apple slices with a knife" />
-    <img src="draining_apples.jpg" width=160px
+    <img path="draining_apples.jpg" width=160px
         alt="Draining apple chunks in a strainer over a bowl" />
 </p>
 
@@ -123,21 +123,21 @@ What I decided to use — and availability of this may simply be peculiar to my 
 9. Wrap tightly in plastic wrap and put in the refrigerator for an hour.
 
 <p align="center">
-    <img src="flour_on_scale.jpg" width=160px
+    <img path="flour_on_scale.jpg" width=160px
         alt="Mound of flour, in a bowl, on a scale reading 6.00g" />
-    <img src="duck_fat.jpg" width=160px
+    <img path="duck_fat.jpg" width=160px
         alt="Container of 7.7oz of D'artagnan duck fat" />
-    <img src="flour_and_butter_in_processor.jpg" width=160px
+    <img path="flour_and_butter_in_processor.jpg" width=160px
         alt="Cubed butter and flour in a food processor" />
-    <img src="processed_flour_and_butter.jpg" width=160px
+    <img path="processed_flour_and_butter.jpg" width=160px
         alt="Butter and flour processed together" />
-    <img src="processed_dough.jpg" width=160px
+    <img path="processed_dough.jpg" width=160px
         alt="Crumbly dough in processor after pulsing with water" />
-    <img src="dumped_dough.jpg" width=160px
+    <img path="dumped_dough.jpg" width=160px
         alt="Crumbly dough on cutting board after dumping out" />
-    <img src="dough_puck.jpg" width=160px
+    <img path="dough_puck.jpg" width=160px
         alt="Dough shaped into a tight puck" />
-    <img src="wrapped_dough.jpg" width=160px
+    <img path="wrapped_dough.jpg" width=160px
         alt="Dough puck tightly wrapped in plastic wrap" />
 </p>
 
@@ -164,17 +164,17 @@ I marked this as optional, but you should really consider it. In addition to jus
 6. Combine 1 tsp cinnamon and the rest of the spices in one bowl, the rest (½ tsp) of the cinnamon in another. Check out the smell. I know, right?
 
 <p align="center">
-    <img src="whole_spices.jpg" width=160px
+    <img path="whole_spices.jpg" width=160px
         alt="Piles of cardamom, allspice, and cloveds, one nutmeg, and one cinnamon stick" />
-    <img src="cinnamon.jpg" width=160px
+    <img path="cinnamon.jpg" width=160px
         alt="A chef's knife cutting a cinnamon (cassia) stick" />
-    <img src="grater.jpg" width=160px
+    <img path="grater.jpg" width=160px
         alt="Brian's hand running a nutmeg over a grater" />
-    <img src="grinder.jpg" width=160px
+    <img path="grinder.jpg" width=160px
         alt="Allspice berries in a spice grinder" />
-    <img src="ground_spices.jpg" width=160px
+    <img path="ground_spices.jpg" width=160px
         alt="Five colorful mounds of spice powder" />
-    <img src="ramekins.jpg" width=160px
+    <img path="ramekins.jpg" width=160px
         alt="Two glass ramekins of spices" />
 </p>
 
@@ -183,19 +183,19 @@ I marked this as optional, but you should really consider it. In addition to jus
 2. Run the processor as you drizzle in the melted butter. Stop when you’re happy with the size of your streusel.
 
 <p align="center">
-    <img src="walnuts_in_processor.jpg" width=160px
+    <img path="walnuts_in_processor.jpg" width=160px
         alt="Walnuts in a food processor" />
-    <img src="processed_walnuts.jpg" width=160px
+    <img path="processed_walnuts.jpg" width=160px
         alt="Chopped walnuts in a food processor" />
-    <img src="processed_dry_streusel.jpg" width=160px
+    <img path="processed_dry_streusel.jpg" width=160px
         alt="Walnuts, sugar, flour, and cinnamon processed into a dry streusel" />
-    <img src="butter_in_cup.jpg" width=160px
+    <img path="butter_in_cup.jpg" width=160px
         alt="Cubed butter in a measuring cup" />
-    <img src="melted_butter.jpg" width=160px
+    <img path="melted_butter.jpg" width=160px
         alt="Beurre-monté in a measuring cup" />
-    <img src="pouring_butter.jpg" width=160px
+    <img path="pouring_butter.jpg" width=160px
         alt="One hand turning the dial of a food processor to &quot;pulse&quot;, while another pours in beurre monté" />
-    <img src="processed_streusel.jpg" width=160px
+    <img path="processed_streusel.jpg" width=160px
         alt="Finished streusel in a food processor" />
 </p>
 
@@ -206,11 +206,11 @@ I marked this as optional, but you should really consider it. In addition to jus
 4. Mix together the solids (apples and whole blueberries) in a bowl. The same one you used to catch the juice is fine, no need even to wash it.
 
 <p align="center">
-    <img src="smashing_blueberries.jpg" width=160px
+    <img path="smashing_blueberries.jpg" width=160px
         alt="A mortar in a pyrex pan with blueberries, half of which are smashed" />
-    <img src="smashed_blueberries.jpg" width=160px
+    <img path="smashed_blueberries.jpg" width=160px
         alt="A pyrex pan with smashed blueberries" />
-    <img src="filling_in_bowl.jpg" width=160px
+    <img path="filling_in_bowl.jpg" width=160px
         alt="A metal bowl with pie filling and a wooden spoon" />
 </p>
 
@@ -229,19 +229,19 @@ I marked this as optional, but you should really consider it. In addition to jus
 4. Sprinkle the streusel on top. Try to keep it uncompacted by handling it gently. A nice, even layer.
 
 <p align="center">
-    <img src="cutting_parchment.jpg" width=160px
+    <img path="cutting_parchment.jpg" width=160px
         alt="A folded up piece of parchment and scissors about to cut it" />
-    <img src="parchment_circle.jpg" width=160px
+    <img path="parchment_circle.jpg" width=160px
         alt="A hand pressing a circular piece of parchment into a pie tin" />
-    <img src="dough_puck_and_flour.jpg" width=160px
+    <img path="dough_puck_and_flour.jpg" width=160px
         alt="A dough puck on a cutting board with flour sprinkled on and around it" />
-    <img src="rolled_dough.jpg" width=160px
+    <img path="rolled_dough.jpg" width=160px
         alt="Pie crust dough rolled out" />
-    <img src="dough_in_pan.jpg" width=160px
+    <img path="dough_in_pan.jpg" width=160px
         alt="Pie crust dough pressed into a pie tin" />
-    <img src="filled_pie.jpg" width=160px
+    <img path="filled_pie.jpg" width=160px
         alt="A pie filled with apple chunks, whole and crushed blueberries, and syrup" />
-    <img src="topped_pie.jpg" width=160px
+    <img path="topped_pie.jpg" width=160px
         alt="A pie topped with streusel" />
 </p>
 
@@ -252,7 +252,7 @@ I marked this as optional, but you should really consider it. In addition to jus
 4. Let cool for at least 4 hours. No harm in using the refrigerator to help out, but if you don’t get it thoroughly cool, the inside will remain runny.
 
 <p align="center">
-    <img src="baked_pie.jpg" width=480px
+    <img path="baked_pie.jpg" width=480px
         alt="A beautiful, baked, apple and blueberry pie" />
 </p>
 
